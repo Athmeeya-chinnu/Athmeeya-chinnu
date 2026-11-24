@@ -15,7 +15,7 @@ practical software applications and learning modern web technologies.
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing B.E. in Computer Science Engineering
+- 🎓 B.E. in Computer Science Engineering
 - 🐍 Strong interest in Python development
 - 🌐 Learning Full-Stack Web Development
 - ⚛️ Exploring React.js and Django
